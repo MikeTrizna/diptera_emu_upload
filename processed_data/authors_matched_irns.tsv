@@ -1,0 +1,96 @@
+Author	Dataset Count	irn	NamFullName	NamFirst	NamLast	NamRoles	Author Count
+Macquart	18	9104645.0	Macquart		Macquart	Author	88.0
+Walker	18	10147017.0	Walker		Walker	Author	1792.0
+Loew	17	9104371.0	Loew		Loew	Author	144.0
+Coquillett	14	9100574.0	Coquillett		Coquillett	Author; Collector	1291.0
+Townsend	14	9100073.0	Townsend		Townsend	Author; Collector	1187.0
+Wiedemann	14	9104762.0	Wiedemann		Wiedemann	Author	144.0
+Curran	13	9104471.0	Curran		Curran	Author; Collector	116.0
+Fabricius	12	10147095.0	Fabricius		Fabricius	Author	2176.0
+Bigot	10	10147032.0	Bigot		Bigot	Author	39.0
+Lindner	10	9101055.0	Lindner		Lindner	Author	3.0
+Wulp	9	10200032.0	Wulp		Wulp	Author	6.0
+James	9	9104772.0	James		James	Author	134.0
+Meigen	8	10147085.0	Meigen		Meigen	Author	42.0
+Scarbrough	8	9105551.0	Scarbrough		Scarbrough	Author	54.0
+Aldrich	7	10164364.0	Aldrich		Aldrich	Author	24.0
+Philippi	6	9105350.0	Philippi		Philippi	Author	59.0
+Reinhard	6	9100101.0	Reinhard		Reinhard	Author	144.0
+Robineau-Desvoidy	6	10147033.0	Robineau-Desvoidy		Robineau-Desvoidy	Author	11.0
+Rondani	6	9104550.0	Rondani		Rondani	Author	25.0
+Say	6	9100141.0	Say		Say	Author	878.0
+Webb	6	9102034.0	Webb		Webb	Author; Collector	22.0
+Krober	5	9104564.0	Krober		Krober	Author	82.0
+Perez-Gelabert	5	9114503.0	Perez-Gelabert		Perez-Gelabert	Author	14.0
+Williston	4	9104235.0	Williston		Williston	Author; Collector	137.0
+Malloch	4	9100379.0	Malloch		Malloch	Author	1170.0
+Villeneuve	4	9104695.0	Villeneuve		Villeneuve	Author	36.0
+Hine	4	9100512.0	Hine		Hine	Author	46.0
+Enderlein	4	10147027.0	Enderlein		Enderlein	Author	87.0
+Artigas	4	9105744.0	Artigas		Artigas	Author	9.0
+Becker	3	9103598.0	Becker		Becker	Author; Collector	118.0
+Parui	3	9112244.0	Parui		Parui	Author	70.0
+Bromley	3	9105547.0	Bromley		Bromley	Author	97.0
+Arnaud	3	9104940.0	Arnaud		Arnaud	Author	13.0
+Joseph	3	9111447.0	Joseph		Joseph	Author	80.0
+Cole	3	9104446.0	Cole		Cole	Author	170.0
+Brunetti	3	9100706.0	Brunetti		Brunetti	Author	3.0
+Fisher	2	9102849.0	Fisher		Fisher	Author	588.0
+Meijere	2	9105951.0	Meijere		Meijere	Author	3.0
+Johnson	2	9101848.0	Johnson		Johnson	Author; Identifier; Collector	301.0
+Olivier	2	9103010.0	Olivier		Olivier	Author	406.0
+Bergenstamm	2	9104352.0	Bergenstamm		Bergenstamm	Author; Collector	23.0
+Brauer	2	10147041.0	Brauer		Brauer	Author	51.0
+Sabrosky	2	9100383.0	Sabrosky		Sabrosky	Author; Identifier; Collector	193.0
+Fallen	2	10166689.0	Fallen		Fallen	Author	46.0
+Woodley	2	9111684.0	Woodley		Woodley	Author	6.0
+Marascia	2	10183336.0	Marascia		Marascia	Author	2.0
+Hull	2	9104654.0	Hull		Hull	Author	86.0
+Matsumura	2	9102261.0	Matsumura		Matsumura	Author	128.0
+Lyneborg	2	9111548.0	Lyneborg		Lyneborg	Author	10.0
+Schiner	2	10147021.0	Schiner		Schiner	Author	25.0
+Hermann	2	10160957.0	Hermann		Hermann	Author	16.0
+Panzer	2	9104794.0	Panzer		Panzer	Author	169.0
+Scopoli	2	9111729.0	Scopoli		Scopoli	Author	125.0
+Blanchard	2	10147036.0	Blanchard		Blanchard	Author	347.0
+Banks	2	9100119.0	Banks		Banks	Author; Collector	1202.0
+Dodge	2	10232347.0	Dodge		Dodge	Author	2.0
+Bellardi	2	10156326.0	Bellardi		Bellardi	Author	8.0
+Stein	2	9104579.0	Stein		Stein	Author	95.0
+Zetterstedt	2	10147029.0	Zetterstedt		Zetterstedt	Author	96.0
+Snyder	1	9103709.0	Snyder		Snyder	Author	276.0
+Lopes	1	10198348.0	Lopes		Lopes	Author	3.0
+Shannon	1	10147075.0	Shannon		Shannon	Author; Collector	2.0
+White	1	9100014.0	White		White	Author	220.0
+Frey	1	10147025.0	Frey		Frey	Author	62.0
+Steyskal	1	10147050.0	Steyskal		Steyskal	Author; Identifier	12.0
+Thomson	1	9104520.0	Thomson		Thomson	Author	388.0
+Surcouf	1	10183516.0	Surcouf		Surcouf	Author	1.0
+Austen	1	10147053.0	Austen		Austen	Author	5.0
+Yang	1	10159925.0	Yang		Yang	Author	94.0
+Engel	1	9105277.0	Engel		Engel	Author; Identifier	25.0
+Hill	1	9101706.0	Hill		Hill	Author	107.0
+Ringdahl	1	9104721.0	Ringdahl		Ringdahl	Author	2.0
+Kaletta	1	10183348.0	Kaletta		Kaletta	Author	1.0
+Ricardo	1	10160962.0	Ricardo		Ricardo	Author	19.0
+Swederus	1	9114982.0	Swederus		Swederus	Author	23.0
+Nowicki	1	10147071.0	Nowicki		Nowicki	Author	3.0
+Linnaeus	1	10147090.0	Linnaeus		Linnaeus	Author	1094.0
+Lundbeck	1	9104623.0	Lundbeck		Lundbeck	Author	12.0
+Donovan	1	9108761.0	Donovan		Donovan	Author	34.0
+Holmgren	1	9111189.0	Holmgren		Holmgren	Author	303.0
+Hall	1	9100117.0	Hall		Hall	Author	215.0
+Hartig	1	10170713.0	Hartig		Hartig	Author	132.0
+Parker	1	9100180.0	Parker		Parker	Author; Collector	204.0
+Sellers	1	9100123.0	Sellers		Sellers	Author	24.0
+Baranov	1	9104843.0	Baranov		Baranov	Author	88.0
+Brooks	1	9104496.0	Brooks		Brooks	Author; Collector	36.0
+Clark	1	9101651.0	Clark		Clark	Author; Collector	449.0
+Hutton	1	9103903.0	Hutton		Hutton	Author	11.0
+Adams	1	9104551.0	Adams		Adams	Author	43.0
+Hardy	1	9100548.0	Hardy		Hardy	Author	147.0
+Westwood	1	10147037.0	Westwood		Westwood	Author	485.0
+Oldroyd	1	9105596.0	Oldroyd		Oldroyd	Author	29.0
+Martin	1	9104963.0	Martin		Martin	Author	235.0
+Osten Sacken	1	9104455.0	Osten Sacken		Osten Sacken	Author	32.0
+Grimshaw	1	10198223.0	Grimshaw		Grimshaw	Author	2.0

@@ -1,0 +1,4 @@
+raw_data/Parties/*.csv
+raw_data/Taxonomy/*.csv
+.ipynb_checkpoints
+**/.DS_Store
