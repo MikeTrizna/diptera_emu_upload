@@ -1,526 +1,523 @@
-Collector	Dataset Count
-N.E.Woodley	43
-W.N.Mathis	34
-P.H.ArnaudJr	33
-T.Dikow	31
-W.E.Steiner	21
-P.J.Spangler	19
-G.F.Hevel	18
-D.Mathis	16
-K.V.Krombein	16
-M.M.Arnaud	15
-T.Wijesinhe	13
-P.H.Arnaud	13
-W.W.Wirth	13
-R.Copeland	13
-A.S.Menke	12
-M.E.Irwin	12
-L.Jayawickrema	11
-A.Freidberg	11
-A.Friedberg	11
-D.Perez	11
-D.Davis	11
-E.Fisher	10
-C.W.Sabrosky	9
-M.Davis	9
-W.Barkemeyer	8
-G.Steyskal	8
-B.Akerbergs	8
-P.Hanson	7
-M.Hauser	7
-O.S.FlintJr	7
-P.B.Karunaratne	7
-T.Gunawardane	7
-P.A.Berry	7
-S.W.Lingafelter	6
-J.Londt	6
-S.E.Miller	6
-R.Bastardo	6
-L.E.Pena	6
-Krombein	5
-Spangler	5
-M.E.Rettenmeyer	5
-P.M.Miller	5
-P.Spangler	5
-P.S.Nathan	5
-S.Sifiwardane	5
-P.Hibbs	5
-O.S.Flint	5
-N.Baranov	5
-J.M.Swearingen	5
-R.A.Faitoute	4
-W.Wirth	4
-F.Schade	4
-A.L.Melander	4
-Flint	4
-W.H.Pierce	4
-L.Knutson	4
-D.R.Davis	4
-L.Masner	4
-A.G.Scarbrough	4
-A.Hook	4
-C.W.Rettenmeyer	4
-M.Thomas	4
-B.Hierro	4
-C.O.Berg	4
-E.I.Schlinger	3
-J.F.Hevel	3
-N.Deyrup	3
-G.S.Forbes	3
-F.C.Thompson	3
-Cekalovic	3
-C.H.T.Townsend	3
-W.L.Murphy	3
-T.H.Davies	3
-A.Dyce	3
-F.D.Parker	3
-F.Kaplan	3
-Menke	3
-N.L.H.Krauss	3
-L.Posada	3
-H.C.Huckett	3
-T.L.Erwin	3
-J.W.Neal	3
-V.Gunawardane	3
-G.Brown	3
-R.S.Copeland	3
-A.B.Gurney	3
-K.Dearborn	3
-F.S.Blanton	3
-A.L.Moore	3
-Mathis	3
-J.Dunlap	3
-C.Lamberton	3
-M.Deyrup	3
-J.S.Ascher	2
-D.B.Wahl	2
-S.E. Miller	2
-S.Shinonaga	2
-F.Soffel	2
-A.Konstantinov	2
-J.Kipping	2
-R.Guppy	2
-D.Vincent	2
-S. Siriwardane	2
-D.E.Perez-Gelabert	2
-K.Sarv	2
-D.R.Smith	2
-T.Guy	2
-Pape	2
-A.Tonnoir	2
-Silveira	2
-J.Jones	2
-J.D.Weintraub	2
-H.M.Smith	2
-Oman	2
-S.Gaimari	2
-R.Zamorand	2
-A.Kirk-Springs	2
-Viklund	2
-E.S.Ross	2
-Freidberg	2
-P.Sullivan	2
-Johanson	2
-K.Tsuneki	2
-A.S.Konstantinov	2
-G.Drewry	2
-A.F.Newton	2
-G.Barria	2
-M.M.Furniss	2
-L.LeSage	2
-Parker	2
-D.J.Peckham	2
-L.V.Knutson	2
-E.M.Fisher	2
-J.B.Heppner	2
-H.A.Hespenheide	2
-R.Lacy	2
-E.Benton	2
-E.Jendek	2
-M.P.Riedel	2
-P.D.Hurd	2
-L.Bevis	2
-A.L.Norrbom	2
-D.L.Bailey	2
-A.L.Norrborn	2
-E.G.Chapman	2
-P.M. Miller	2
-D.L.Vincent	2
-M.Irwin	2
-F.Geller-Grimm	2
-O.Sausa	2
-M.K.Thayer	2
-J.Almeida	2
-K.D.Ghorpade	2
-T.Cekalovic	2
-P.Tripotin	2
-A.C.Messer	2
-P.Forchhammer	2
-R.W.Hodges	2
-K.Bayless	2
-R.Sobhian	2
-E.T.Armstrong	2
-Marais	2
-M.Arnaud	2
-G.Becker	1
-T.J.Spilman	1
-S.C.Williams	1
-K.E.Frick	1
-M.R.Vaughn	1
-D.L.Theron	1
-G.J.Puterka	1
-R.R.Dreisbach	1
-N.H.Newton	1
-J.L.Gressitt	1
-H.Paterson	1
-J.C.HitchcockJr	1
-H.E.McClure	1
-C.H.Ballou	1
-Grissell	1
-P.M.Spangler	1
-M.McKinnerney	1
-R.C.Froeschner	1
-J.G.Shaw	1
-B.	1
-W.Heutemann	1
-A.Patino	1
-J.F.C.Clarke	1
-R.L.V.Poole	1
-E.J.Davis	1
-R.E.Williams	1
-K.Yeargan	1
-R.Froeschner	1
-A.Rybarh	1
-P.J.Spanger	1
-H.L.Parker	1
-C.Evers	1
-R.I. Sailer	1
-M.Jayaweera	1
-T.Robbins	1
-H.V.WeemsJr	1
-R.L.Fischer	1
-J.A.Ramos	1
-F.F.Hinostin	1
-W.G.Harvey	1
-W.D.Sumlin	1
-J.E.Garces	1
-Bayless	1
-E.F.Reik	1
-N.Cunynghame	1
-R.W.Burrell	1
-J.C.HitchcockJR	1
-R.H.Painter	1
-G.P.Holland	1
-R.R.PingerJr.	1
-K.Goeden	1
-D.H.Messersmith	1
-V.M.Carolin	1
-Herrera	1
-D.H.Janzen W.Hallwachs	1
-J.F.G.Clarke	1
-F.Blancas	1
-E.Tascheuberg	1
-Herbert	1
-E.Colque	1
-R.C.Shannon	1
-S.L.Clement	1
-N.Hichius	1
-R.Molineaux	1
-H.R.Dodge	1
-E.M.Painter	1
-D.Miller	1
-J.E.Lowry	1
-L.J.Boutin	1
-L.Hollenverg	1
-P.J.Stuckenberg	1
-E.I.Schlinger,F.D.Parker	1
-Berry	1
-K.Rennell	1
-B.Viklund	1
-Weintraub	1
-Stephenson	1
-T.Guniwariane	1
-M.Volkovish	1
-B.M.Norden	1
-J.M.Leavengood Jr.	1
-P.Sillivan	1
-M.Sharkey	1
-M.Volovitsh	1
-L.Hollenberg	1
-Woodley	1
-E.Shannon	1
-F.Hort	1
-E.Froeschner	1
-L.Weeratunge	1
-M.Kotrba	1
-N.Menke	1
-M.Ahmad	1
-R.E.DietzIV	1
-P.M.Taylor	1
-M.Copperband	1
-M.J.Molineaux	1
-Cobb	1
-G.J.Steck	1
-Desnurgor	1
-J.Maldonado	1
-J.Fortin	1
-M.C.S. Arnaud	1
-K. Menke	1
-Hadjinicalaou	1
-R.Psencik	1
-Friedberg	1
-S.G.Compton	1
-J.Wasbauer	1
-Pham Jendek	1
-J.Bowder	1
-R.C.Bechtel	1
-J.C.Hall	1
-L.Legg	1
-W.R.Enns	1
-J.R.Mawdsley	1
-Barkemeyer	1
-L.Rogers	1
-P.Leanage	1
-G.W.Angalet	1
-R.J.McGinley	1
-D.Davidson	1
-J.Wolinski	1
-W.L.Grogan	1
-T.Kuklenski	1
-D.Perez-Gelabert	1
-A.B.Norden	1
-M.L.Tarbox	1
-W.N. Mathis	1
-L.Gozmany	1
-Knutson	1
-G.David	1
-S.W.Gross	1
-L.Reichert	1
-J.Hort	1
-E.Mayordo	1
-M.Thayer	1
-R.C.Patel	1
-E.R.Hodges	1
-Carpenter	1
-A.Aiello	1
-Davis	1
-Hardy	1
-D.Yeates	1
-J.L.Fisher	1
-M.R.Romero	1
-H.Real	1
-O.S.FlintJr.	1
-Mann	1
-R.Harin`Hala	1
-Barria	1
-R.Westcott	1
-A.Kawahara	1
-M.M.Stromberg	1
-P.Feliciano	1
-A.Menke	1
-R.F.Ruppel	1
-R.J.Lavigne	1
-D.Pollock	1
-D.K.McAlpine	1
-R.E.Woodruff	1
-D.C.Darling	1
-A.Newton	1
-L.Quate	1
-A.Burges	1
-O.Lonsdale	1
-W.Schacht	1
-R.D.Cave	1
-A.S. Menke	1
-Lingafelter	1
-R.Silberglied	1
-R.B.Penfield	1
-N.D.Menke	1
-H.M.C.Lee	1
-D.Perez,R.Bastardo	1
-G.H.Sperry,J.L.Sperry	1
-H.Pohl	1
-Mindakov	1
-R.G.Wind	1
-Molina	1
-A.Hiller	1
-F.G. Howarth	1
-K.R.Norris	1
-E.Chapman	1
-E.P.Narchuk	1
-C.Priszynski	1
-D.A.Grimaldi	1
-H.E.Hespenheide	1
-T.Pape	1
-E.Namatalau	1
-K.Kusigemati	1
-Harrington	1
-S.Yanoviak	1
-D.Engleman	1
-C.Kremen	1
-M.Wasbauer	1
-Tripotin	1
-P.H.ArnaudJr.	1
-J.M.LeavengoodJr.	1
-G.Kung	1
-G.Nearns	1
-D.J.Bickel	1
-J.Bogenberger	1
-D.Gaimari	1
-J.Cohen	1
-C.Young	1
-N.Hichins	1
-S.C.Bruner	1
-J.Stewart	1
-M.Aguirre	1
-H.Aoki	1
-E.Brito	1
-W.Reeves	1
-R.M.Straw	1
-O.S.Flint Jr.	1
-J.C.Bradley	1
-J.Friedman	1
-H.Hacker	1
-P.Berry	1
-H.Brauns	1
-C.F.Baker	1
-J.Woonski	1
-L.Guidry	1
-R.Aalbu	1
-N.Woodley	1
-Gurney	1
-D.Adamski	1
-D.Bullock	1
-S.W.Droege	1
-D.Hardy	1
-J.Asher	1
-R.Burrell	1
-O.Niehuis	1
-A.E.Pritchard	1
-C.J.Guillarmod	1
-J.Redon	1
-D.C.Graham	1
-P.lehr	1
-Aranan	1
-D.Perez,R.Bastardo,B.Hierro	1
-Moore	1
-R.Urtiaga	1
-C.Haematopota	1
-R.Latham	1
-O.Wharton	1
-H.E.Irving	1
-G.Hevel,J.Fortin	1
-E.Inciarte	1
-S.Winterton	1
-N.Arias	1
-C.Lamerton	1
-G.E. Bohart	1
-C.Maier	1
-F.Waythowshi	1
-J.C.Deeming	1
-L. Molina	1
-G.Tjusoeroe	1
-J.M.Ayala	1
-D.R.Stuckenberg	1
-B.Merz	1
-D.G.Furth	1
-R.I.Nelson	1
-F.Hinostroza	1
-O.H.T.Townsend	1
-F.J.Messina	1
-D.C.Lightfoot	1
-B.Stark	1
-S.H.Oreistadt	1
-J.Bethke	1
-L.D.Newsom	1
-Jaynes	1
-M.Sabourin	1
-H.J.deFluister	1
-J.M.Aldrich	1
-E.Asceragaza	1
-R.Fritz	1
-G.G.Nylea	1
-J.Bequaert	1
-Bridwell	1
-S.Karunaratne	1
-C.W. Rettenmeyer	1
-A.Baptista	1
-S.Gazit	1
-C.Legg	1
-J.Shuster	1
-J.Burgos	1
-S.L.Jensen	1
-J.Laffoon	1
-Lightfoot	1
-D.M.Davis	1
-H.K.Plant	1
-N.Condon	1
-H.Sauter	1
-L.Quiniero	1
-V.P.Rao	1
-F.Pacheco	1
-W.M.Mann	1
-K.Chen	1
-K.Ghorpade	1
-P.A.Goodwin	1
-J.Semidey	1
-C.P.Mesnil	1
-V.P.Rau	1
-Stackelberg	1
-P.Schaefer	1
-R.W.Dawson	1
-R.E.Silberglied	1
-A.E.Bustillo	1
-H.V.Weems	1
-T.D.Marsico	1
-J.T.Medler	1
-K.Starr	1
-K.Kamijo	1
-R.Shannon	1
-Shannon	1
-C.Miller	1
-H.B.Morlan	1
-N.McFarland	1
-M.Wasnauer	1
-C.Y.Kitayama	1
-J.C.Chamberlin	1
-S.vanNoor	1
-L.Pena	1
-E.J.Kochenderfer	1
-V.D.Roth	1
-Sychevskaya	1
-J.E.Gillaspy	1
-McGinley	1
-F.Parker	1
-L.H.Herman	1
-J.M.McGough	1
-D.H.Nicolson	1
-J.C.Miller	1
-J.E.Barriga	1
-M.T.Smith	1
-R.Blakemore	1
-S.Tirgari	1
-W.Mathis	1
-G.E.Bohart	1
-G.Hevel	1
-D.R.Brothers	1
-L.W.Roberts	1
-T.L.Whitworth	1
-B.J.Thompson	1
-E.B.Babyetagara	1
-C.H.Martin	1
-G.W.Eddy	1
-R.L.Jones	1
-D. Mathis	1
-R.Wharton	1
-D.J.Hilburn	1
-R.F.C.Naczi	1
-M.Allaire	1
-I.R.Hendrickson	1
-Woods	1
-D.M.Wood	1
-Herard	1
-C.Sabrosky	1
-R.C.Miller	1
-J.J.Sullivan	1
-D.Peckham	1
-G.Ekis	1
+Collector	Dataset Count	NamFirst	NamLast	NamMiddle
+R. Aalbu	1	R.	Aalbu	
+D. Adamski	1	D.	Adamski	
+M. Aguirre	1	M.	Aguirre	
+M. Ahmad	1	M.	Ahmad	
+A. Aiello	1	A.	Aiello	
+B. Akerbergs	8	B.	Akerbergs	
+J. M. Aldrich	1	J.	Aldrich	M.
+M. Allaire	1	M.	Allaire	
+J. Almeida	2	J.	Almeida	
+G. W. Angalet	1	G.	Angalet	W.
+H. Aoki	1	H.	Aoki	
+Aranan	1		Aranan	
+N. Arias	1	N.	Arias	
+E. T. Armstrong	2	E.	Armstrong	T.
+M. C. S.  Arnaud	1	M.	Arnaud	C. S. 
+M. M. Arnaud	15	M.	Arnaud	M.
+M. Arnaud	2	M.	Arnaud	
+P. H. Arnaud	13	P.	Arnaud	H.
+P. H. ArnaudJr	33	P.	ArnaudJr	H.
+P. H. ArnaudJr.	1	P.	ArnaudJr.	H.
+E. Asceragaza	1	E.	Asceragaza	
+J. S. Ascher	2	J.	Ascher	S.
+J. Asher	1	J.	Asher	
+J. M. Ayala	1	J.	Ayala	M.
+E. B. Babyetagara	1	E.	Babyetagara	B.
+D. L. Bailey	2	D.	Bailey	L.
+C. F. Baker	1	C.	Baker	F.
+C. H. Ballou	1	C.	Ballou	H.
+A. Baptista	1	A.	Baptista	
+N. Baranov	5	N.	Baranov	
+W. Barkemeyer	8	W.	Barkemeyer	
+Barkemeyer	1		Barkemeyer	
+Barria	1		Barria	
+G. Barria	2	G.	Barria	
+J. E. Barriga	1	J.	Barriga	E.
+R. Bastardo	8	R.	Bastardo	
+K. Bayless	2	K.	Bayless	
+Bayless	1		Bayless	
+R. C. Bechtel	1	R.	Bechtel	C.
+G. Becker	1	G.	Becker	
+E. Benton	2	E.	Benton	
+J. Bequaert	1	J.	Bequaert	
+C. O. Berg	4	C.	Berg	O.
+P. A. Berry	7	P.	Berry	A.
+Berry	1		Berry	
+P. Berry	1	P.	Berry	
+J. Bethke	1	J.	Bethke	
+L. Bevis	2	L.	Bevis	
+D. J. Bickel	1	D.	Bickel	J.
+R. Blakemore	1	R.	Blakemore	
+F. Blancas	1	F.	Blancas	
+F. S. Blanton	3	F.	Blanton	S.
+J. Bogenberger	1	J.	Bogenberger	
+G. E.  Bohart	1	G.	Bohart	E. 
+G. E. Bohart	1	G.	Bohart	E.
+L. J. Boutin	1	L.	Boutin	J.
+J. Bowder	1	J.	Bowder	
+J. C. Bradley	1	J.	Bradley	C.
+H. Brauns	1	H.	Brauns	
+Bridwell	1		Bridwell	
+E. Brito	1	E.	Brito	
+D. R. Brothers	1	D.	Brothers	R.
+G. Brown	3	G.	Brown	
+S. C. Bruner	1	S.	Bruner	C.
+D. Bullock	1	D.	Bullock	
+A. Burges	1	A.	Burges	
+J. Burgos	1	J.	Burgos	
+R. Burrell	1	R.	Burrell	
+R. W. Burrell	1	R.	Burrell	W.
+A. E. Bustillo	1	A.	Bustillo	E.
+V. M. Carolin	1	V.	Carolin	M.
+Carpenter	1		Carpenter	
+R. D. Cave	1	R.	Cave	D.
+T. Cekalovic	2	T.	Cekalovic	
+Cekalovic	3		Cekalovic	
+J. C. Chamberlin	1	J.	Chamberlin	C.
+E. Chapman	1	E.	Chapman	
+E. G. Chapman	2	E.	Chapman	G.
+K. Chen	1	K.	Chen	
+J. F. C. Clarke	1	J.	Clarke	F. C.
+J. F. G. Clarke	1	J.	Clarke	F. G.
+S. L. Clement	1	S.	Clement	L.
+Cobb	1		Cobb	
+J. Cohen	1	J.	Cohen	
+E. Colque	1	E.	Colque	
+S. G. Compton	1	S.	Compton	G.
+N. Condon	1	N.	Condon	
+R. Copeland	13	R.	Copeland	
+R. S. Copeland	3	R.	Copeland	S.
+M. Copperband	1	M.	Copperband	
+N. Cunynghame	1	N.	Cunynghame	
+D. C. Darling	1	D.	Darling	C.
+G. David	1	G.	David	
+D. Davidson	1	D.	Davidson	
+T. H. Davies	3	T.	Davies	H.
+D. Davis	11	D.	Davis	
+Davis	1		Davis	
+M. Davis	9	M.	Davis	
+D. M. Davis	1	D.	Davis	M.
+E. J. Davis	1	E.	Davis	J.
+D. R. Davis	4	D.	Davis	R.
+R. W. Dawson	1	R.	Dawson	W.
+K. Dearborn	3	K.	Dearborn	
+J. C. Deeming	1	J.	Deeming	C.
+Desnurgor	1		Desnurgor	
+M. Deyrup	3	M.	Deyrup	
+N. Deyrup	3	N.	Deyrup	
+R. E. DietzIV	1	R.	DietzIV	E.
+T. Dikow	31	T.	Dikow	
+H. R. Dodge	1	H.	Dodge	R.
+R. R. Dreisbach	1	R.	Dreisbach	R.
+G. Drewry	2	G.	Drewry	
+S. W. Droege	1	S.	Droege	W.
+J. Dunlap	3	J.	Dunlap	
+A. Dyce	3	A.	Dyce	
+G. W. Eddy	1	G.	Eddy	W.
+G. Ekis	1	G.	Ekis	
+D. Engleman	1	D.	Engleman	
+W. R. Enns	1	W.	Enns	R.
+T. L. Erwin	3	T.	Erwin	L.
+C. Evers	1	C.	Evers	
+R. A. Faitoute	4	R.	Faitoute	A.
+P. Feliciano	1	P.	Feliciano	
+R. L. Fischer	1	R.	Fischer	L.
+E. M. Fisher	2	E.	Fisher	M.
+J. L. Fisher	1	J.	Fisher	L.
+E. Fisher	10	E.	Fisher	
+O. S. Flint	5	O.	Flint	S.
+Flint	4		Flint	
+O. S. FlintJr	7	O.	FlintJr	S.
+O. S. FlintJr.	1	O.	FlintJr.	S.
+G. S. Forbes	3	G.	Forbes	S.
+P. Forchhammer	2	P.	Forchhammer	
+J. Fortin	2	J.	Fortin	
+A. Freidberg	11	A.	Freidberg	
+Freidberg	2		Freidberg	
+K. E. Frick	1	K.	Frick	E.
+Friedberg	1		Friedberg	
+A. Friedberg	11	A.	Friedberg	
+J. Friedman	1	J.	Friedman	
+R. Fritz	1	R.	Fritz	
+R. Froeschner	1	R.	Froeschner	
+R. C. Froeschner	1	R.	Froeschner	C.
+E. Froeschner	1	E.	Froeschner	
+M. M. Furniss	2	M.	Furniss	M.
+D. G. Furth	1	D.	Furth	G.
+D. Gaimari	1	D.	Gaimari	
+S. Gaimari	2	S.	Gaimari	
+J. E. Garces	1	J.	Garces	E.
+S. Gazit	1	S.	Gazit	
+F. Geller-Grimm	2	F.	Geller-Grimm	
+K. D. Ghorpade	2	K.	Ghorpade	D.
+K. Ghorpade	1	K.	Ghorpade	
+J. E. Gillaspy	1	J.	Gillaspy	E.
+K. Goeden	1	K.	Goeden	
+P. A. Goodwin	1	P.	Goodwin	A.
+L. Gozmany	1	L.	Gozmany	
+D. C. Graham	1	D.	Graham	C.
+J. L. Gressitt	1	J.	Gressitt	L.
+D. A. Grimaldi	1	D.	Grimaldi	A.
+Grissell	1		Grissell	
+W. L. Grogan	1	W.	Grogan	L.
+S. W. Gross	1	S.	Gross	W.
+L. Guidry	1	L.	Guidry	
+C. J. Guillarmod	1	C.	Guillarmod	J.
+T. Gunawardane	7	T.	Gunawardane	
+V. Gunawardane	3	V.	Gunawardane	
+T. Guniwariane	1	T.	Guniwariane	
+R. Guppy	2	R.	Guppy	
+A. B. Gurney	3	A.	Gurney	B.
+Gurney	1		Gurney	
+T. Guy	2	T.	Guy	
+H. Hacker	1	H.	Hacker	
+Hadjinicalaou	1		Hadjinicalaou	
+C. Haematopota	1	C.	Haematopota	
+J. C. Hall	1	J.	Hall	C.
+W. Hallwachs	1	W.	Hallwachs	
+P. Hanson	7	P.	Hanson	
+Hardy	1		Hardy	
+D. Hardy	1	D.	Hardy	
+R. HarinHala	1	R.	HarinHala	
+Harrington	1		Harrington	
+W. G. Harvey	1	W.	Harvey	G.
+M. Hauser	7	M.	Hauser	
+I. R. Hendrickson	1	I.	Hendrickson	R.
+J. B. Heppner	2	J.	Heppner	B.
+Herard	1		Herard	
+Herbert	1		Herbert	
+L. H. Herman	1	L.	Herman	H.
+Herrera	1		Herrera	
+H. E. Hespenheide	1	H.	Hespenheide	E.
+H. A. Hespenheide	2	H.	Hespenheide	A.
+W. Heutemann	1	W.	Heutemann	
+J. F. Hevel	3	J.	Hevel	F.
+G. Hevel	2	G.	Hevel	
+G. F. Hevel	18	G.	Hevel	F.
+P. Hibbs	5	P.	Hibbs	
+N. Hichins	1	N.	Hichins	
+N. Hichius	1	N.	Hichius	
+B. Hierro	5	B.	Hierro	
+D. J. Hilburn	1	D.	Hilburn	J.
+A. Hiller	1	A.	Hiller	
+F. F. Hinostin	1	F.	Hinostin	F.
+F. Hinostroza	1	F.	Hinostroza	
+J. C. HitchcockJR	1	J.	HitchcockJR	C.
+J. C. HitchcockJr	1	J.	HitchcockJr	C.
+R. W. Hodges	2	R.	Hodges	W.
+E. R. Hodges	1	E.	Hodges	R.
+G. P. Holland	1	G.	Holland	P.
+L. Hollenberg	1	L.	Hollenberg	
+L. Hollenverg	1	L.	Hollenverg	
+A. Hook	4	A.	Hook	
+F. Hort	1	F.	Hort	
+J. Hort	1	J.	Hort	
+F. G.  Howarth	1	F.	Howarth	G. 
+H. C. Huckett	3	H.	Huckett	C.
+P. D. Hurd	2	P.	Hurd	D.
+E. Inciarte	1	E.	Inciarte	
+H. E. Irving	1	H.	Irving	E.
+M. Irwin	2	M.	Irwin	
+M. E. Irwin	12	M.	Irwin	E.
+D. H. Janzen	1	D.	Janzen	H.
+M. Jayaweera	1	M.	Jayaweera	
+L. Jayawickrema	11	L.	Jayawickrema	
+Jaynes	1		Jaynes	
+Pham Jendek	1	Pham	Jendek	
+E. Jendek	2	E.	Jendek	
+S. L. Jensen	1	S.	Jensen	L.
+Johanson	2		Johanson	
+R. L. Jones	1	R.	Jones	L.
+J. Jones	2	J.	Jones	
+O. S. Flint Jr.	1	O.	Jr.	S. Flint
+J. M. Leavengood Jr.	1	J.	Jr.	M. Leavengood
+K. Kamijo	1	K.	Kamijo	
+F. Kaplan	3	F.	Kaplan	
+S. Karunaratne	1	S.	Karunaratne	
+P. B. Karunaratne	7	P.	Karunaratne	B.
+A. Kawahara	1	A.	Kawahara	
+J. Kipping	2	J.	Kipping	
+A. Kirk-Springs	2	A.	Kirk-Springs	
+C. Y. Kitayama	1	C.	Kitayama	Y.
+Knutson	1		Knutson	
+L. V. Knutson	2	L.	Knutson	V.
+L. Knutson	4	L.	Knutson	
+E. J. Kochenderfer	1	E.	Kochenderfer	J.
+A. Konstantinov	2	A.	Konstantinov	
+A. S. Konstantinov	2	A.	Konstantinov	S.
+M. Kotrba	1	M.	Kotrba	
+N. L. H. Krauss	3	N.	Krauss	L. H.
+C. Kremen	1	C.	Kremen	
+K. V. Krombein	16	K.	Krombein	V.
+Krombein	5		Krombein	
+T. Kuklenski	1	T.	Kuklenski	
+G. Kung	1	G.	Kung	
+K. Kusigemati	1	K.	Kusigemati	
+R. Lacy	2	R.	Lacy	
+J. Laffoon	1	J.	Laffoon	
+C. Lamberton	3	C.	Lamberton	
+C. Lamerton	1	C.	Lamerton	
+R. Latham	1	R.	Latham	
+R. J. Lavigne	1	R.	Lavigne	J.
+L. LeSage	2	L.	LeSage	
+P. Leanage	1	P.	Leanage	
+J. M. LeavengoodJr.	1	J.	LeavengoodJr.	M.
+H. M. C. Lee	1	H.	Lee	M. C.
+C. Legg	1	C.	Legg	
+L. Legg	1	L.	Legg	
+D. C. Lightfoot	1	D.	Lightfoot	C.
+Lightfoot	1		Lightfoot	
+S. W. Lingafelter	6	S.	Lingafelter	W.
+Lingafelter	1		Lingafelter	
+J. Londt	6	J.	Londt	
+O. Lonsdale	1	O.	Lonsdale	
+J. E. Lowry	1	J.	Lowry	E.
+C. Maier	1	C.	Maier	
+J. Maldonado	1	J.	Maldonado	
+Mann	1		Mann	
+W. M. Mann	1	W.	Mann	M.
+Marais	2		Marais	
+T. D. Marsico	1	T.	Marsico	D.
+C. H. Martin	1	C.	Martin	H.
+L. Masner	4	L.	Masner	
+W. N. Mathis	34	W.	Mathis	N.
+W. N.  Mathis	1	W.	Mathis	N. 
+D. Mathis	16	D.	Mathis	
+D.  Mathis	1	D.	Mathis	
+W. Mathis	1	W.	Mathis	
+Mathis	3		Mathis	
+J. R. Mawdsley	1	J.	Mawdsley	R.
+E. Mayordo	1	E.	Mayordo	
+D. K. McAlpine	1	D.	McAlpine	K.
+H. E. McClure	1	H.	McClure	E.
+N. McFarland	1	N.	McFarland	
+R. J. McGinley	1	R.	McGinley	J.
+McGinley	1		McGinley	
+J. M. McGough	1	J.	McGough	M.
+M. McKinnerney	1	M.	McKinnerney	
+J. T. Medler	1	J.	Medler	T.
+A. L. Melander	4	A.	Melander	L.
+K.  Menke	1	K.	Menke	
+N. D. Menke	1	N.	Menke	D.
+N. Menke	1	N.	Menke	
+A. Menke	1	A.	Menke	
+A. S. Menke	12	A.	Menke	S.
+A. S.  Menke	1	A.	Menke	S. 
+Menke	3		Menke	
+B. Merz	1	B.	Merz	
+C. P. Mesnil	1	C.	Mesnil	P.
+A. C. Messer	2	A.	Messer	C.
+D. H. Messersmith	1	D.	Messersmith	H.
+F. J. Messina	1	F.	Messina	J.
+C. Miller	1	C.	Miller	
+S. E. Miller	6	S.	Miller	E.
+D. Miller	1	D.	Miller	
+S. E.  Miller	2	S.	Miller	E. 
+R. C. Miller	1	R.	Miller	C.
+P. M. Miller	5	P.	Miller	M.
+J. C. Miller	1	J.	Miller	C.
+P. M.  Miller	2	P.	Miller	M. 
+Mindakov	1		Mindakov	
+L.  Molina	1	L.	Molina	
+Molina	1		Molina	
+R. Molineaux	1	R.	Molineaux	
+M. J. Molineaux	1	M.	Molineaux	J.
+A. L. Moore	3	A.	Moore	L.
+Moore	1		Moore	
+H. B. Morlan	1	H.	Morlan	B.
+W. L. Murphy	3	W.	Murphy	L.
+R. F. C. Naczi	1	R.	Naczi	F. C.
+E. Namatalau	1	E.	Namatalau	
+E. P. Narchuk	1	E.	Narchuk	P.
+P. S. Nathan	5	P.	Nathan	S.
+J. W. Neal	3	J.	Neal	W.
+G. Nearns	1	G.	Nearns	
+R. I. Nelson	1	R.	Nelson	I.
+L. D. Newsom	1	L.	Newsom	D.
+A. Newton	1	A.	Newton	
+N. H. Newton	1	N.	Newton	H.
+A. F. Newton	2	A.	Newton	F.
+D. H. Nicolson	1	D.	Nicolson	H.
+O. Niehuis	1	O.	Niehuis	
+B. M. Norden	1	B.	Norden	M.
+A. B. Norden	1	A.	Norden	B.
+A. L. Norrbom	2	A.	Norrbom	L.
+A. L. Norrborn	2	A.	Norrborn	L.
+K. R. Norris	1	K.	Norris	R.
+G. G. Nylea	1	G.	Nylea	G.
+Oman	2		Oman	
+S. H. Oreistadt	1	S.	Oreistadt	H.
+F. Pacheco	1	F.	Pacheco	
+E. M. Painter	1	E.	Painter	M.
+R. H. Painter	1	R.	Painter	H.
+T. Pape	1	T.	Pape	
+Pape	2		Pape	
+Parker	2		Parker	
+F. Parker	1	F.	Parker	
+F. D. Parker	4	F.	Parker	D.
+H. L. Parker	1	H.	Parker	L.
+R. C. Patel	1	R.	Patel	C.
+H. Paterson	1	H.	Paterson	
+A. Patino	1	A.	Patino	
+D. Peckham	1	D.	Peckham	
+D. J. Peckham	2	D.	Peckham	J.
+L. E. Pena	6	L.	Pena	E.
+L. Pena	1	L.	Pena	
+R. B. Penfield	1	R.	Penfield	B.
+D. Perez	13	D.	Perez	
+D. E. Perez-Gelabert	2	D.	Perez-Gelabert	E.
+D. Perez-Gelabert	1	D.	Perez-Gelabert	
+W. H. Pierce	4	W.	Pierce	H.
+R. R. PingerJr.	1	R.	PingerJr.	R.
+H. K. Plant	1	H.	Plant	K.
+H. Pohl	1	H.	Pohl	
+D. Pollock	1	D.	Pollock	
+R. L. V. Poole	1	R.	Poole	L. V.
+L. Posada	3	L.	Posada	
+C. Priszynski	1	C.	Priszynski	
+A. E. Pritchard	1	A.	Pritchard	E.
+R. Psencik	1	R.	Psencik	
+G. J. Puterka	1	G.	Puterka	J.
+L. Quate	1	L.	Quate	
+L. Quiniero	1	L.	Quiniero	
+J. A. Ramos	1	J.	Ramos	A.
+V. P. Rao	1	V.	Rao	P.
+V. P. Rau	1	V.	Rau	P.
+H. Real	1	H.	Real	
+J. Redon	1	J.	Redon	
+W. Reeves	1	W.	Reeves	
+L. Reichert	1	L.	Reichert	
+E. F. Reik	1	E.	Reik	F.
+K. Rennell	1	K.	Rennell	
+M. E. Rettenmeyer	5	M.	Rettenmeyer	E.
+C. W.  Rettenmeyer	1	C.	Rettenmeyer	W. 
+C. W. Rettenmeyer	4	C.	Rettenmeyer	W.
+M. P. Riedel	2	M.	Riedel	P.
+T. Robbins	1	T.	Robbins	
+L. W. Roberts	1	L.	Roberts	W.
+L. Rogers	1	L.	Rogers	
+M. R. Romero	1	M.	Romero	R.
+E. S. Ross	2	E.	Ross	S.
+V. D. Roth	1	V.	Roth	D.
+R. F. Ruppel	1	R.	Ruppel	F.
+A. Rybarh	1	A.	Rybarh	
+M. Sabourin	1	M.	Sabourin	
+C. Sabrosky	1	C.	Sabrosky	
+C. W. Sabrosky	9	C.	Sabrosky	W.
+R. I.  Sailer	1	R.	Sailer	I. 
+K. Sarv	2	K.	Sarv	
+O. Sausa	2	O.	Sausa	
+H. Sauter	1	H.	Sauter	
+A. G. Scarbrough	4	A.	Scarbrough	G.
+W. Schacht	1	W.	Schacht	
+F. Schade	4	F.	Schade	
+P. Schaefer	1	P.	Schaefer	
+E. I. Schlinger	4	E.	Schlinger	I.
+J. Semidey	1	J.	Semidey	
+Shannon	1		Shannon	
+R. C. Shannon	1	R.	Shannon	C.
+R. Shannon	1	R.	Shannon	
+E. Shannon	1	E.	Shannon	
+M. Sharkey	1	M.	Sharkey	
+J. G. Shaw	1	J.	Shaw	G.
+S. Shinonaga	2	S.	Shinonaga	
+J. Shuster	1	J.	Shuster	
+S. Sifiwardane	5	S.	Sifiwardane	
+R. E. Silberglied	1	R.	Silberglied	E.
+R. Silberglied	1	R.	Silberglied	
+P. Sillivan	1	P.	Sillivan	
+Silveira	2		Silveira	
+S.  Siriwardane	2	S.	Siriwardane	
+M. T. Smith	1	M.	Smith	T.
+D. R. Smith	2	D.	Smith	R.
+H. M. Smith	2	H.	Smith	M.
+R. Sobhian	2	R.	Sobhian	
+F. Soffel	2	F.	Soffel	
+P. J. Spanger	1	P.	Spanger	J.
+Spangler	5		Spangler	
+P. Spangler	5	P.	Spangler	
+P. J. Spangler	19	P.	Spangler	J.
+P. M. Spangler	1	P.	Spangler	M.
+G. H. Sperry	1	G.	Sperry	H.
+J. L. Sperry	1	J.	Sperry	L.
+T. J. Spilman	1	T.	Spilman	J.
+Stackelberg	1		Stackelberg	
+B. Stark	1	B.	Stark	
+K. Starr	1	K.	Starr	
+G. J. Steck	1	G.	Steck	J.
+W. E. Steiner	21	W.	Steiner	E.
+Stephenson	1		Stephenson	
+J. Stewart	1	J.	Stewart	
+G. Steyskal	8	G.	Steyskal	
+R. M. Straw	1	R.	Straw	M.
+M. M. Stromberg	1	M.	Stromberg	M.
+P. J. Stuckenberg	1	P.	Stuckenberg	J.
+D. R. Stuckenberg	1	D.	Stuckenberg	R.
+P. Sullivan	2	P.	Sullivan	
+J. J. Sullivan	1	J.	Sullivan	J.
+W. D. Sumlin	1	W.	Sumlin	D.
+J. M. Swearingen	5	J.	Swearingen	M.
+Sychevskaya	1		Sychevskaya	
+M. L. Tarbox	1	M.	Tarbox	L.
+E. Tascheuberg	1	E.	Tascheuberg	
+P. M. Taylor	1	P.	Taylor	M.
+M. K. Thayer	2	M.	Thayer	K.
+M. Thayer	1	M.	Thayer	
+D. L. Theron	1	D.	Theron	L.
+M. Thomas	4	M.	Thomas	
+F. C. Thompson	3	F.	Thompson	C.
+B. J. Thompson	1	B.	Thompson	J.
+S. Tirgari	1	S.	Tirgari	
+G. Tjusoeroe	1	G.	Tjusoeroe	
+A. Tonnoir	2	A.	Tonnoir	
+C. H. T. Townsend	3	C.	Townsend	H. T.
+O. H. T. Townsend	1	O.	Townsend	H. T.
+P. Tripotin	2	P.	Tripotin	
+Tripotin	1		Tripotin	
+K. Tsuneki	2	K.	Tsuneki	
+R. Urtiaga	1	R.	Urtiaga	
+M. R. Vaughn	1	M.	Vaughn	R.
+Viklund	2		Viklund	
+B. Viklund	1	B.	Viklund	
+D. Vincent	2	D.	Vincent	
+D. L. Vincent	2	D.	Vincent	L.
+M. Volkovish	1	M.	Volkovish	
+M. Volovitsh	1	M.	Volovitsh	
+D. B. Wahl	2	D.	Wahl	B.
+M. Wasbauer	1	M.	Wasbauer	
+J. Wasbauer	1	J.	Wasbauer	
+M. Wasnauer	1	M.	Wasnauer	
+F. Waythowshi	1	F.	Waythowshi	
+H. V. Weems	1	H.	Weems	V.
+H. V. WeemsJr	1	H.	WeemsJr	V.
+L. Weeratunge	1	L.	Weeratunge	
+J. D. Weintraub	2	J.	Weintraub	D.
+Weintraub	1		Weintraub	
+R. Westcott	1	R.	Westcott	
+O. Wharton	1	O.	Wharton	
+R. Wharton	1	R.	Wharton	
+T. L. Whitworth	1	T.	Whitworth	L.
+T. Wijesinhe	13	T.	Wijesinhe	
+S. C. Williams	1	S.	Williams	C.
+R. E. Williams	1	R.	Williams	E.
+R. G. Wind	1	R.	Wind	G.
+S. Winterton	1	S.	Winterton	
+W. Wirth	4	W.	Wirth	
+W. W. Wirth	13	W.	Wirth	W.
+J. Wolinski	1	J.	Wolinski	
+D. M. Wood	1	D.	Wood	M.
+Woodley	1		Woodley	
+N. Woodley	1	N.	Woodley	
+N. E. Woodley	43	N.	Woodley	E.
+R. E. Woodruff	1	R.	Woodruff	E.
+Woods	1		Woods	
+J. Woonski	1	J.	Woonski	
+S. Yanoviak	1	S.	Yanoviak	
+K. Yeargan	1	K.	Yeargan	
+D. Yeates	1	D.	Yeates	
+C. Young	1	C.	Young	
+R. Zamorand	2	R.	Zamorand	
+H. J. deFluister	1	H.	deFluister	J.
+P. lehr	1	P.	lehr	
+S. vanNoor	1	S.	vanNoor	
